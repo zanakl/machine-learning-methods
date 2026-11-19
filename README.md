@@ -1,4 +1,4 @@
-# Uvod u analizu podataka – Druga zadaća
+# Analiza podataka i primjena metoda strojnog učenja 
 
 Projekt iz kolegija *Uvod u analizu podataka* koji obuhvaća primjenu različitih metoda strojnog učenja na više skupova podataka.
 
